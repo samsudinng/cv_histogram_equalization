@@ -1,6 +1,8 @@
 # Globall Histogram Equalization
 
-This repository contains Python implementation of global histogram equalization for AI6121 - Computer Vision course assignment (NTU MSc in AI programme). 
+This repository contains Python implementation of global histogram equalization for AI6121 - Computer Vision course assignment (NTU MSc in AI programme). I have also written a Medium article explaining the concepts. 
+
+[Introduction to Histogram Equalization for Digital Image Enhancement](https://levelup.gitconnected.com/introduction-to-histogram-equalization-for-digital-image-enhancement-420696db9e43)
 
 ## Usage
 The histogram equalizer is implemented in histogram equalizer.py. The script to process the test images is CV Assignment1.py. The test images should be placed in jpg/ folder. An output folder jpg/equalized/ must be created, where the equalized images will be written to. To use the equalizer, the following command can be coded:
